@@ -1,5 +1,5 @@
 import sys
-import clipboard
+import clipboard.clipboard as clipboard
 import json 
 
 
