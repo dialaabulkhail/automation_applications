@@ -13,7 +13,7 @@ you can use these commands: save, load, list
 
 """
 to run this :
->python automation.py save | load | list
+>python clipboard.py save | load | list
 
 To get this work you need to do the following:
 if you copied something, and then used the save command with a key, then you load this key and paste in the terminal, you will see that what you copied is stored there in that key
@@ -42,7 +42,7 @@ the list command is just to show the data in the terminal as keys and values
 
 
 # when running this:
-#  python automation.py test hello world
+#  python clipboard.py test hello world
 # a list will be provided with every word I passed
 # ['automation.py', 'test', 'hello', 'world']
 
