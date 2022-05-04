@@ -1,0 +1,1 @@
+{"python": "sys.argv[1]", "test": "sys.argv[1]", "copytest": "clipboard.copy(data[key])"}
