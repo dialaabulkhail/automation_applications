@@ -3,7 +3,6 @@ import clipboard
 import json 
 
 
-
 """
 Multiple clipboard:
 To be able to store multiple things on your clipboard and load them again
@@ -24,6 +23,7 @@ so each time you copy something and whant to store it in the json file, you need
 
 the list command is just to show the data in the terminal as keys and values
 """
+
 
                               ### Clipboard module basics####
 #paste: is going to paste the data from clipboard to the "data" variable
@@ -49,6 +49,7 @@ the list command is just to show the data in the terminal as keys and values
 # to access elements from the list
 # print(sys.argv[1:])
 # ['test', 'hello', 'world']
+
 
 
                                 ### To activate the program ###
